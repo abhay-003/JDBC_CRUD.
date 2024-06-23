@@ -27,7 +27,7 @@ public class Main {
                    break;
 
                case (3):
-                   System.out.println("id ,name ");
+System.out.println("id ,name ");
                    int i = sc.nextInt();
                    sc.nextLine();
                    String sm = sc.nextLine();
